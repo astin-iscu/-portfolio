@@ -6,7 +6,7 @@
 
 나. 서버 : 무료 Oracle-cloud Linux Server
 
-다. SQL / WAS SW : Mysql8 / tomcat
+다. SQL / 웹 SW : Mysql8 / tomcat
 
 ## 게시판 개요
 가. 게시판 작성간 확장성을 고려(차후에 본인이 추가하여 사용)하여 만들었습니다.
